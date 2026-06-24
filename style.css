@@ -1,0 +1,247 @@
+@import url(font.css);
+
+body{
+    font-family:Vazirmatn ;
+    overflow-x: hidden !important;
+}
+
+.m2{
+ font-weight: bold;
+}
+@media screen and (min-width:1000px){
+    body{
+    font-family:Vazirmatn ;
+    overflow-x: hidden !important;
+}
+    .test{
+    background-color: springgreen;
+    width: 70vw;
+    height: 90vh;
+    position: absolute;
+    left: -300px;
+    bottom: 100px;
+    z-index: -1;
+    rotate: -100deg;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    }
+    .karen{
+        background-color: #ECF0FA;
+        width: 300px;
+        height: 250px;
+        border-radius: 35px;
+        -webkit-border-radius: 35px;
+        -moz-border-radius: 35px;
+        -ms-border-radius: 35px;
+        -o-border-radius: 35px;
+        position: absolute;
+        top: 1400px;
+        right: 160px;
+        z-index: -999;
+        rotate: 20deg;
+}
+    .karen2{
+            background-color:#67C34A;
+            width: 300px;
+            height: 250px;
+            border-radius: 35px;
+            -webkit-border-radius: 35px;
+            -moz-border-radius: 35px;
+            -ms-border-radius: 35px;
+            -o-border-radius: 35px;
+            position: absolute;
+            top: 1460px;
+            left: 160px;
+            z-index: -999;
+            rotate: -23deg;
+    }
+    .mt-meli{
+        margin-top: 100px !important;
+    }
+    .col-click{
+        width: 150px !important;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+}
+    .row-click{
+        position: relative;
+        bottom: 26px;
+    }
+    .bac-click{
+        width: 900px;
+        height: 318px;
+        background-color: #ECEFF4;
+        position: absolute;
+        top: 2159px;
+        right: 280px;
+        border-radius: 25px;
+        -webkit-border-radius: 25px;
+        -moz-border-radius: 25px;
+        -ms-border-radius: 25px;
+        -o-border-radius: 25px;
+        z-index: -999;
+        rotate: -2deg;
+}
+}
+@media screen and (max-width:375px){
+    body{
+    font-family:Vazirmatn ;
+  
+}
+      .test{
+    background: linear-gradient(#54BF5E,#84c347);
+    width: 50vw;
+    height: 100vh;
+    position: absolute;
+    left: -100px;
+    top: 0;
+    z-index: -1;
+    rotate: -10deg;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    }
+}
+.karen10{
+    width: 17vw;
+    height: 50vh;
+    position: absolute;
+    left: 1000000px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+
+}
+.m{
+ position: absolute;
+ right: 110px;
+}
+.mk{
+    border-radius: 50px;
+    color: antiquewhite;
+}
+    @media screen and (min-width:10000px) {
+        .mkl{
+            width: 100px;
+            height: 100px;
+        }
+    }
+    @media screen and (max-width:1000000px ){
+        .mkl{
+            width: 100px;
+            height: 100px;
+        }
+    }
+    .mkl img{
+        border-radius: 100px;
+        background-color: blue;
+        margin-left: 1000000px;
+    }
+.armin:hover{
+    margin-bottom: 10px;
+    transition-duration: 1s;
+    font-size: 20px;
+    text-shadow: 10px 10px 5px gray;
+}
+
+.mk:hover{
+    transition-duration: 1s;
+    font-size: 20px;
+    text-shadow: 10px 10px 5px rebeccapurple;
+}
+
+.mehdi{
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+
+
+.malihe{
+    background-color: darkslategray;
+}
+
+
+.karen1510{
+   color: antiquewhite;
+}
+
+.kale{
+    text-decoration: none;
+    color: antiquewhite;
+    border-radius: 50px;
+}
+
+.bg{
+    background-color: darkslategray;
+}
+
+.portal{
+    position: absolute;
+    right: 1200px;
+    padding-top: 23px;
+}
+
+
+.width{
+    width: 500px;
+    height: 300px;
+    margin-top: 120px;
+    position: absolute;
+    right: 65%;
+    border-radius: 7px;
+    background-color: #b6b3b3;
+    text-shadow: rgb(255, 0, 0);
+    padding-left: 50px;
+}
+
+
+.width h1:first-child{
+color: #00ff08;
+}
+
+.position{
+    position: absolute;
+    right: 20%;
+}
+
+
+.margin{
+    margin-top: 150px;
+    justify-content: space-between;
+}
+
+.btn-s{
+     border-radius: 50px;
+     width: 150px;
+     margin-top: 30px;
+     position: absolute;
+     right: 43%;
+}
+
+.none:first-child{
+    text-decoration: none;
+    color: white;
+}
+.none:last-child{
+    text-decoration: none;
+    color: black;
+}
+
+.mt{
+    margin-top: 100px;
+}
+
+.absolute{
+    position: absolute;
+    right: 40%;
+}
